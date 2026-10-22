@@ -27,13 +27,6 @@ Full write-up: [`report.docx`](report.docx)
 4. **Cluster:** K-Means, k chosen with elbow and silhouette plots (k = 4).
 5. **Name segments** from their average R/F/M so they make sense to a marketing manager.
 
-## Charts
-
-| | |
-|---|---|
-| ![](charts/1_monthly_revenue.png) | ![](charts/2_rfm_distributions.png) |
-| ![](charts/3_choosing_k.png) | ![](charts/4_segment_share.png) |
-| ![](charts/5_segment_profile.png) | |
 
 ## Project structure
 
